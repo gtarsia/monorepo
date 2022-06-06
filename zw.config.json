@@ -1,0 +1,21 @@
+{
+  "repos": {
+    "zow": {
+      "gitHost": "github.com",
+      "gitRoute": "zzyyxxww/zow.git",
+      "fsPath": "packages/zow",
+      "dependencies": [
+        "zow-cli"
+      ]
+    },
+    "zow-cli": {
+      "gitHost": "github.com",
+      "gitRoute": "zzyyxxww/zow-cli.git",
+      "fsPath": "packages/zow-cli",
+      "dependencies": []
+    }
+  },
+  "defaultReposDir": "packages",
+  "commands": {},
+  "plugins": []
+}
